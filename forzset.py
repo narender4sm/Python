@@ -1,0 +1,10 @@
+s={10,20,30,10,20}
+fs=frozenset(s)
+print(type(fs))
+print(fs)
+print(id(s))
+s.add(50)
+print(id(s))
+s.remove(10)
+print(id(s))
+print(s)

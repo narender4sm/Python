@@ -1,0 +1,12 @@
+a=[10,20,30]
+b=a
+print(a)
+print(b)
+print(id(a))
+print(id(b))
+print(b)
+a[0]=888
+print(a)
+print(b)
+print(id(a))
+print(id(b))
