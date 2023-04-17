@@ -39,5 +39,3 @@ print(e>=f)
 
 q=10
 w=20
-if q>W:
-    print('')
