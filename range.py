@@ -9,11 +9,11 @@ for x in r:
 r=range(0,6,2)
 for x in r:
     print(x)
-
+#inrement
 r=range(1,6,2)
 for x in r:
     print(x)
-
+#decrement
 r=range(-1,-7,-3)
 for x in r:
     print(x)
